@@ -1,0 +1,2 @@
+include ':app', ':teste-android'
+rootProject.name='Teste Android Library'
